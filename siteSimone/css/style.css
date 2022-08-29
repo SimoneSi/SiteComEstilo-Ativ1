@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Source+Sans+Pro:wght@300&display=swap');
+
+h1, h2{
+    color:rgb(255, 99, 71);
+    font-family: 'Lora', serif;    
+    word-spacing: 2px;
+}
+h2{
+    font-size: 25px;
+}
+
+img{
+    width: 200px;
+    height: 300px;
+}
+
+p, li, dl{
+    color:#666666;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight:900;
+    text-align: justify;   
+}
+
+a{
+    color:rgb(56, 51, 51);
+    font-family: 'Lora', serif;   
+    font-size: 16px; 
+    font-weight: 900;
+    text-decoration: none; 
+}
+
+a:hover{
+    text-decoration: underline;
+}
